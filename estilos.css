@@ -1,0 +1,51 @@
+body{
+    font-family: "Helvetica", sans-serif;
+    background-color: #e0aaff;
+    color: white;
+}
+h1{
+    color: #10002b;
+    font-size: 59px ;
+    text-align: center;
+
+}
+h3{
+    font-size: 40px;
+    font-family: unset;
+
+}
+ul{
+    font-size: 25px;
+    color: coral;
+    text-decoration: none;
+    text-shadow: 0.1em 0.1em 0.2em white;
+}
+h6{
+    font-size: 20px;
+    font-family: serif;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    font-family: cursive;
+    text-align: center;
+    font-style: italic;
+}
+.His1{
+    background-color: #9d4edd;
+    text-shadow: 0.1em 0.1em 0.2em lime;
+    padding: 50px;
+    margin: 100px;
+}
+.Lov{
+    background-color: #7b2cbf;
+    text-shadow: 0.1em 0.1em 0.2em greenyellow;
+    padding: 50px;
+    margin: 100px;
+}
+.His2{
+    background-color: #240046;
+    text-shadow: 0.1em 0.1em 0.2em mediumspringgreen;
+    padding: 50px;
+    margin: 100px;
+}
